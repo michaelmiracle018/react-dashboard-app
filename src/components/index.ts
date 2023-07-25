@@ -1,0 +1,11 @@
+export { default as Navbar } from "../components/navbar/Navbar";
+export { default as Footer } from "../components/footer/Footer";
+export { default as Menu } from "../components/menu/Menu";
+export { default as TopBox } from "../components/topBox/TopBox";
+export { default as ChatBox } from "../components/chatBox/ChatBox";
+export { default as BarChartBox } from "../components/barChartBox/BarChartBox";
+export { default as PieChartBox } from "../components/pieChartBox/PieChartBox";
+export { default as BigChartBox } from "../components/bigChartBox/BigChartBox";
+export { default as DataTable } from "../components/dataTable/DataTable";
+export { default as Add } from "../components/add/Add";
+export { default as Single } from "../components/single/Single";
